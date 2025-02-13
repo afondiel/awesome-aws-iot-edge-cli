@@ -2,6 +2,8 @@
 
 # Awesome AWS IoT & Edge CLI (v2)
 
+<img src="AWS-IoT-Services.png" style="max-width: 100%; height: auto;" width="520" height="440">
+
 ## Overview
 
 This reference covers essential commands for AWS IoT & Edge device management, data operations, using AWS CLI v2.
