@@ -128,12 +128,14 @@ This reference covers essential commands for AWS IoT & Edge device management, d
 
 ## References
 
-- [AWS IoT CLI v2 Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/index.html)
-  - [AWS IoT examples using AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli_iot_code_examples.html)
+- [AWS IoT (Core) CLI v2 Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/index.html)
+  - [AWS IoT (Core) examples using AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli_iot_code_examples.html)
   - [AWS IoT Core API Reference](https://docs.aws.amazon.com/iot/latest/apireference/index.html)
   - [Device Shadow REST API](https://docs.aws.amazon.com/iot/latest/developerguide/device-shadow-rest-api.html)
-  - [AWS CLI - GitHub Repo](https://github.com/aws/aws-cli)
-- [Greengrass v2 CLI Reference (Edge AI)](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/greengrassv2/index.html) 
-  - [Greengrass v2 Dev Guide (Edge AI)](https://docs.aws.amazon.com/greengrass/v2/developerguide/gg-cli-reference.html)
+  - [AWS IoT Core Doc](https://docs.aws.amazon.com/iot/)
+- [AWS IoT Greengrass (GG) v2 CLI Reference - Edge AI](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/greengrassv2/index.html) 
+  - [AWS IoT Greengrass V2 examples using AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli_greengrassv2_code_examples.html)
   - [AWS IoT Greengrass v2 API Reference](https://docs.aws.amazon.com/greengrass/v2/APIReference/Welcome.html)
+  - [AWS IoT Greengrass Doc](https://docs.aws.amazon.com/greengrass/)
 - [AWS IoT Developer Guide](https://docs.aws.amazon.com/iot/latest/developerguide/index.html)
+- [AWS CLI - GitHub Repo](https://github.com/aws/aws-cli)
