@@ -1,14 +1,14 @@
-# AWS IoT CLI v2 Command Reference
+# Awesome AWS IoT CLI v2 Command Reference
+
+## Overview
 
 This reference covers essential commands for IoT device management, data operations, and AWS Greengrass integration using AWS CLI v2.
-
----
 
 ## Configuration Requirements
 - AWS Credentials with `AWSIoTDataAccess`
 - CLI v2.2+ for latest IoT features
 - Python 3.7+ runtime environment
-- 
+
 ## Core IoT Services
 
 ### Thing Registry Management
@@ -38,8 +38,6 @@ This reference covers essential commands for IoT device management, data operati
   ```
 - **`aws iot list-topic-rules`**: Displays all active rules
 
----
-
 ## Device Management Commands
 
 ### Remote Operations
@@ -53,8 +51,6 @@ This reference covers essential commands for IoT device management, data operati
   aws iot-data get-thing-shadow --thing-name MySensor shadow.json
   ```
 - **`aws iot-data update-thing-shadow`**: Modifies device shadow state 
-
----
 
 ## Data Plane Operations
 
@@ -72,8 +68,6 @@ This reference covers essential commands for IoT device management, data operati
 - **`aws iot batch-associate-thing-with-think-group`**: Bulk device grouping  
 - **`aws iot batch-update-thing`**: Mass device configuration updates
 
----
-
 ## Greengrass Integration
 
 ### Local Device Management
@@ -84,8 +78,6 @@ This reference covers essential commands for IoT device management, data operati
 - **`greengrass-cli logs retrieve`**: Collects device operation logs  
 - **`greengrass-cli component restart`**: Restarts specific services
 
----
-
 ## Advanced Features
 
 ### Security Monitoring
@@ -95,8 +87,6 @@ This reference covers essential commands for IoT device management, data operati
 ### Device Metrics
 - **`aws iot list-metric-values`**: Retrieves operational telemetry  
 - **`aws iot get-statistics`**: Aggregates device performance data
-
----
 
 ## Troubleshooting Essentials
 
@@ -118,7 +108,6 @@ This reference covers essential commands for IoT device management, data operati
 > aws iot list-things --query "things[?thingName=='MySensor']" --output table
 > ```
 
----
 
 ## References
 
