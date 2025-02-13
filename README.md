@@ -1,10 +1,10 @@
 [![](https://img.shields.io/badge/Contribute-Welcome-green)](#)
 
-# Awesome AWS IoT CLI (v2)
+# Awesome AWS IoT & Edge CLI (v2)
 
 ## Overview
 
-This reference covers essential commands for IoT device management, data operations, and AWS Greengrass integration using AWS CLI v2.
+This reference covers essential commands for AWS IoT & Edge device management, data operations, using AWS CLI v2.
 
 ## Table of Contents
 - [Installation & Configuration Requirements](#installation--configuration-requirements)
