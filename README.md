@@ -7,7 +7,7 @@
 This reference covers essential commands for IoT device management, data operations, and AWS Greengrass integration using AWS CLI v2.
 
 ## Table of Contents
-- [Configuration Requirements](#installation--configuration-requirements)
+- [Installation & Configuration Requirements](#installation--configuration-requirements)
 - [Core IoT Services](#core-iot-services)
 - [Device Management Commands](#device-management-commands)
 - [Data Plane Operations](#data-plane-operations)
