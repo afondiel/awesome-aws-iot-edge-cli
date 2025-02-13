@@ -1,4 +1,4 @@
-# Awesome AWS IoT CLI v2 Command Reference
+# Awesome AWS IoT CLI (v2)
 
 ## Overview
 
