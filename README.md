@@ -4,6 +4,16 @@
 
 This reference covers essential commands for IoT device management, data operations, and AWS Greengrass integration using AWS CLI v2.
 
+## Table of Contents
+- [Configuration Requirements](#configuration-requirements)
+- [Core IoT Services](#core-iot-services)
+- [Device Management Commands](#device-management-commands)
+- [Data Plane Operations](#data-plane-operations)
+- [Greengrass Integration](#greengrass-integration)
+- [Advanced Features](#advanced-features)
+- [Troubleshooting Essentials](#troubleshooting-essentials)
+- [References](#references)
+
 ## Configuration Requirements
 - AWS Credentials with `AWSIoTDataAccess`
 - CLI v2.2+ for latest IoT features
@@ -108,6 +118,7 @@ This reference covers essential commands for IoT device management, data operati
 > aws iot list-things --query "things[?thingName=='MySensor']" --output table
 > ```
 
+[Back to Top](#table-of-contents)
 
 ## References
 
