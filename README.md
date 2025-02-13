@@ -124,5 +124,6 @@ This reference covers essential commands for IoT device management, data operati
 
 ## References
 
-- [AWS IoT CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/iot/)
+- [AWS IoT CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/index.html)
 - [Greengrass CLI Guide](https://docs.aws.amazon.com/greengrass/v2/developerguide/gg-cli-reference.html)
+- [AWS CLI Github Doc](https://github.com/aws/aws-cli)
